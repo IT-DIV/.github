@@ -1,7 +1,7 @@
 <div align="center">
 
 <!-- Logo BINUS - akan ditambahkan -->
-<img src="./assets/binus-logo.jpg" alt="BINUS University" width="200"/>
+<img src="binus-logo.jpg" alt="BINUS University" width="200"/>
 
 # BelanjaYuk - E-Commerce Platform
 
